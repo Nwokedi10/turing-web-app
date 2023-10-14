@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "turingtest-71926",
+    "staging": "turingtest-71926"
+  },
+  "targets": {},
+  "etags": {}
+}
